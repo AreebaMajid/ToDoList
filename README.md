@@ -7,8 +7,6 @@ This project was created as part of my internship at **Oasis Infobyte** under th
 - ➕ Add new tasks
 - ✅ Mark tasks as completed
 - 🗑️ Delete or edit tasks
-- 📋 Separate lists for **Pending Tasks** and **Completed Tasks**
-- 🕒 (Optional) Timestamp to track when tasks were added or completed
 
 ## 🚀 Live Demo
 
